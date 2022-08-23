@@ -24,7 +24,7 @@
     - [ ] mudar de cor e arredondar às bordas quando o mouse passar em cima
 
 
-- [ ] # [Projeto6](#projeto5) (html+javascript+css) - manipular outros elementos
+- [ ] # [Projeto6](#projeto6) (html+javascript+css) - manipular outros elementos
     [exemplo1](https://stackoverflow.com/questions/58948543/how-to-chain-css-animation-on-different-elements) (html+css)
     [exemplo2](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations) (html+javascript+css)
     - [ ] (html+css) criar um botão que altera a cor e a forma de uma `div`
