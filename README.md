@@ -1,4 +1,4 @@
-#[git init](/init.md)
+# [git init](/init.md)
 
 ```bash
 git init
@@ -13,7 +13,7 @@ git commit -m "first commit"
 git push -u origin main
 ```
 
-#[git clone](/clone.md)
+# [git clone](/clone.md)
 ```bash
 git clone git@jheniffer:Jheniffershteffani/<nome do repositório>.git
 ```
