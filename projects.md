@@ -17,7 +17,7 @@
     - [ ] criar um botão que mostra uma mensagem usando`alert()`
 
 
-- [ ] Projeto5 (html+css) - criar uma animação com uma tag `div`
+- [ ] # Projeto5 (html+css) - criar uma animação com uma tag `div`
     [documentação](https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_animation), [outros exemplos](https://www.freecodecamp.org/portuguese/news/exemplos-de-transicao-em-css-como-usar-a-animacao-ao-passar-o-mouse-alterar-a-opacidade-e-mais/)
     - [ ] mudar de cor
     - [ ] arredondar às bordas
