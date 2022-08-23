@@ -110,7 +110,7 @@
             <td>b</td>
           </tr>
         </table>
-- [ ] # Projeto11 - Mandar informçãoes do front para o back usando a tag `form`
+- [ ] # Projeto11 - Mandar informações do front para o back usando a tag `form`
 [Documentação](https://www.w3schools.com/html/html_forms.asp)
 ##### - front-end + back-end + banco de dados
 - [ ] # Projeto12 -  usar o projeto anterior para pegar, salvar ou deletar informações no banco de dados.
