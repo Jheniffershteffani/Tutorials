@@ -13,6 +13,18 @@ git config user.name "jheniffer"
 git config user.email jheniffer.aleatorio@gmail.com 
 ```
 
+# Resumo
+### Primeira parte
+
+```bash
+git clone git@jheniffer:Jheniffershteffani/<nome do repositório>.git
+```
+### Segunda parte
+
+```bash
+git config user.name "jheniffer"
+git config user.email jheniffer.aleatorio@gmail.com 
+```
 # Possiveis erros
 
 ## Se der erro no passo 1
