@@ -114,4 +114,18 @@
 [Documentação](https://www.w3schools.com/html/html_forms.asp)
 ##### - front-end + back-end + banco de dados
 - [ ] # Projeto12 -  usar o projeto anterior para pegar, salvar ou deletar informações no banco de dados.
-#### Profisional - Já dá para trabalhar como estagiária ou Júnior (NestJS + React + TypeORM + SQLite) 
+#### Profisional - Já dá para trabalhar como estagiária ou Júnior (NestJS + React + TypeORM + SQLite)
+[react_getstarted](https://www.w3schools.com/react/react_getstarted.asp)
+[react_router](https://www.w3schools.com/react/react_router.asp)
+[react_forms](https://www.w3schools.com/react/react_forms.asp)
+[react_components](https://www.w3schools.com/react/react_components.asp)
+[react_css_styling](https://www.w3schools.com/react/react_css_styling.asp)
+- [ ] # Projeto13 - Login e cadastro de usuário
+https://contactmentor.com/login-form-react-js-code/
+![img](https://contactmentor.com/wp-content/uploads/2021/06/login6.gif)
+![img](https://i.pinimg.com/originals/84/9d/e8/849de8715eb981f9a370d10dfdb774d4.gif)
+https://blog.rocketseat.com.br/reactjs-autenticacao/
+![img](https://blog.rocketseat.com.br/content/images/2018/12/airbnb-signup-1.gif)
+![img](https://assets.materialup.com/uploads/a8b4f721-0940-432e-af96-0c60891ed15f/animated_teaser.gif)
+https://github.com/MatheusPires99/gobarber-2.0
+![img](https://camo.githubusercontent.com/63ee04f7a45c10249ec6614dcc93f1ca1f9f58c912a01e5a5806fab79a78fa9d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d61746865757370697265732f696d6167652f75706c6f61642f76313539313039393833322f676f6261726265725f7761647266632e676966)
