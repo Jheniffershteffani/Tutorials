@@ -1,7 +1,7 @@
 ### checklist
 #### Básico
 - [ ] # Projeto1 (html) - hello world
-    - [ ] usando a tag `h1`
+    - [x] usando a tag `h1`
     - [ ] usando a tag `img` com attribute `src` = `https://avatars.githubusercontent.com/u/111667610?v=4`
     - [ ] usando a tag `h1` com attribute `style` para mudar a cor do texto
 
