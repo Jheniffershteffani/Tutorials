@@ -5,13 +5,12 @@
     - [x] usando a tag `img` com attribute `src` = `https://avatars.githubusercontent.com/u/111667610?v=4`
     - [x] usando a tag `h1` com attribute `style` para mudar a cor do texto
 
-- [ ] # Projeto2 (javascript) - hello world
-    - [ ] `console.log()`
-    - [ ] `alert()`
+- [x] # Projeto2 (javascript) - hello world
+    - [x] `console.log()`
 
 
-- [ ] # Projeto3 (html+css) - hello world
-    - [ ] usar um arquivo css ao invés do attribute `style`
+- [x] # Projeto3 (html+css) - hello world
+    - [x] usar um arquivo css ao invés do attribute `style`
 
 
 - [ ] # Projeto4 (html+javascript) - hello world
