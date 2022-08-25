@@ -1,9 +1,9 @@
 ### checklist
 #### Básico
-- [ ] # Projeto1 (html) - hello world
+- [x] # Projeto1 (html) - hello world
     - [x] usando a tag `h1`
-    - [ ] usando a tag `img` com attribute `src` = `https://avatars.githubusercontent.com/u/111667610?v=4`
-    - [ ] usando a tag `h1` com attribute `style` para mudar a cor do texto
+    - [x] usando a tag `img` com attribute `src` = `https://avatars.githubusercontent.com/u/111667610?v=4`
+    - [x] usando a tag `h1` com attribute `style` para mudar a cor do texto
 
 - [ ] # Projeto2 (javascript) - hello world
     - [ ] `console.log()`
