@@ -13,8 +13,8 @@
     - [x] usar um arquivo css ao invés do attribute `style`
 
 
-- [ ] # Projeto4 (html+javascript) - hello world
-    - [ ] criar um botão que mostra uma mensagem usando`alert()`
+- [x] # Projeto4 (html+javascript) - hello world
+    - [x] criar um botão que mostra uma mensagem usando`alert()`
 
 
 - [ ] # Projeto5 (html+css) - criar uma animação com uma tag `div`
