@@ -19,15 +19,15 @@
 
 - [ ] # Projeto5 (html+css) - criar uma animação com uma tag `div`
     [documentação](https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_animation), [outros exemplos](https://www.freecodecamp.org/portuguese/news/exemplos-de-transicao-em-css-como-usar-a-animacao-ao-passar-o-mouse-alterar-a-opacidade-e-mais/)
-    - [ ] mudar de cor
-    - [ ] arredondar às bordas
-    - [ ] mudar de cor e arredondar às bordas quando o mouse passar em cima
+    - [x] mudar de cor
+    - [x] arredondar às bordas
+    - [x] mudar de cor e arredondar às bordas quando o mouse passar em cima
 
 
-- [ ] # [Projeto6](#projeto6) (html+javascript+css) - manipular outros elementos
+- [x] # [Projeto6](#projeto6) (html+javascript+css) - manipular outros elementos
     [exemplo1](https://stackoverflow.com/questions/58948543/how-to-chain-css-animation-on-different-elements) (html+css)
     [exemplo2](https://codepen.io/jorgecardoso/post/1-css-transitions-and-animations) (html+javascript+css)
-    - [ ] (html+css) criar um botão que altera a cor e a forma de uma `div`
+    - [x] (html+css) criar um botão que altera a cor e a forma de uma `div`
     - [ ] (html+javascript+css) criar um botão que altera a cor e a forma de uma `div`
 
 
