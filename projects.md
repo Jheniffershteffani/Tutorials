@@ -40,8 +40,8 @@
 [exemplo - typescript_vanilla_typeorm](https://github.com/enghitalo/v/blob/examples/js_dom_draw_bechmark_chart/refactor/examples/js_dom_draw_bechmark_chart/typescript_vanilla_typeorm/src/server.js);
 [documentação official](https://github.com/nodejs/node/blob/main/doc/api/http.md#event-connect);
 
-- [ ] # Projeto7 (nodejs) - JS serve
-    - [ ] mostrar um arquivo `index.html` na rota "/"
+- [x] # Projeto7 (nodejs) - JS serve
+    - [x] mostrar um arquivo `index.html` na rota "/"
     com o html abaixo.
     ```js
     <h1>hello world</h1>
